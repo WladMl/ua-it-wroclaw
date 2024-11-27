@@ -7,6 +7,10 @@
 ## Лікарі
 [Мануальний терапевт][2]
 
+[Клініка "Twój lekarz we Wrocławiu". Лікарі та персонал можуть спілкуватися російською, англійською, а деякі - ще й українською мовою][9]
+
+
+
 ## Ліки
 [Цілодобові аптеки][5]<br />
 
@@ -28,4 +32,5 @@
 [6]: https://maps.app.goo.gl/Ly1qtKst96CheJpu7
 [7]: https://maps.app.goo.gl/N9rBFWnBFNzguwDv6
 [8]: https://maps.app.goo.gl/KiwJA4c2tNXNeCKv8
+[9]: https://wroclaw.twojlekarz-wawa.pl/
 
